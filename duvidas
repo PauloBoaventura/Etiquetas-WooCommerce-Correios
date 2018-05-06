@@ -1,0 +1,13 @@
+Este código esta funcionando em PHP 5, 5.6, 7.0, 7.1 ou até mesmo em 7.2 ?
+São muitas dúvidas e nada pessoal... (Já deixo claro)
+Este código esta nas normativas novas dos correios (2017) e que pelo visto já existe novas normativas em (2018)...
+Bom, este não é o único que visualizamos que aparentemente esta tudo correto.
+Mas, tenho que ser este USUÁRIO questionador, já que estamos enfrentando tantos problemas seja eles em PHP, AJAX ou qualquer impulso anterior á 2017.
+E assim vem as dúvidas...
+
+Gostaria de saber se podemos implementar este código em outras ferramentas e até mesmo em outas plataformas... 
+
+Espero que tenhamos uma resposta satisfatória e um UPGRADE. (O que neste notamos que o upgrade é notavel).
+
+S.O = Centos7 - Plesk
+Php = 5.6 / 7.0
